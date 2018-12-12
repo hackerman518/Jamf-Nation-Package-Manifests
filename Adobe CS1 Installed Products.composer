@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<preinstalled_package>
+	<name>Adobe CS1</name>
+	<warning>Deploying repackaged Adobe CS1/CS2 products over the top of existing CS1/CS2 applications can cause issues with Adobe's Licensing Database. If the files inside 
+
+	/Library/Application Support/Adobe/Adobe Registration Database
+
+are overwritten, the licensing information for previously installed applications can be lost, making the existing Adobe applications unusable. 
+
+Before deploying this software, be sure to test all possible environments to ensure that the desired results are achieved.</warning>
+	<notes>This is a preinstalled software template for Adobe CS1.  This template was tested with Adobe CS1 on Mac OS X 10.6.3 on 6/9/2010.</notes>
+	<created_by>JAMF Software, LLC</created_by>
+	<image_path>/Applications/Adobe Photoshop CS/Adobe Photoshop CS.app</image_path>
+	<check_for>/Applications/Adobe Photoshop CS/Adobe Photoshop CS.app</check_for>
+	<diff>/Applications/Acrobat 6.0 Professional
+/Applications/Adobe GoLive CS
+/Applications/Adobe Illustrator CS
+/Applications/Adobe InDesign CS
+/Applications/Adobe Photoshop CS
+/Applications/Adobe Version Cue
+/Library/Application Support/Adobe
+/Library/Application Support/Product Registration.app
+/Library/ColorSync/Profiles/Profiles
+/Library/ColorSync/Profiles/Recommended
+/Library/Fonts/WarnockPro-Bold.otf
+/Library/Fonts/WarnockPro-BoldCapt.otf
+/Library/Fonts/WarnockPro-BoldDisp.otf
+/Library/Fonts/WarnockPro-BoldIt.otf
+/Library/Fonts/WarnockPro-BoldItCapt.otf
+/Library/Fonts/WarnockPro-BoldItDisp.otf
+/Library/Fonts/WarnockPro-BoldItSubh.otf
+/Library/Fonts/WarnockPro-BoldSubh.otf
+/Library/Fonts/WarnockPro-Capt.otf
+/Library/Fonts/WarnockPro-Disp.otf
+/Library/Fonts/WarnockPro-It.otf
+/Library/Fonts/WarnockPro-ItCapt.otf
+/Library/Fonts/WarnockPro-ItDisp.otf
+/Library/Fonts/WarnockPro-ItSubh.otf
+/Library/Fonts/WarnockPro-Light.otf
+/Library/Fonts/WarnockPro-LightCapt.otf
+/Library/Fonts/WarnockPro-LightDisp.otf
+/Library/Fonts/WarnockPro-LightIt.otf
+/Library/Fonts/WarnockPro-LightItCapt.otf
+/Library/Fonts/WarnockPro-LightItDisp.otf
+/Library/Fonts/WarnockPro-LightItSubh.otf
+/Library/Fonts/WarnockPro-LightSubh.otf
+/Library/Fonts/WarnockPro-Regular.otf
+/Library/Fonts/WarnockPro-Semibold.otf
+/Library/Fonts/WarnockPro-SemiboldCapt.otf
+/Library/Fonts/WarnockPro-SemiboldDisp.otf
+/Library/Fonts/WarnockPro-SemiboldIt.otf
+/Library/Fonts/WarnockPro-SemiboldItCapt.otf
+/Library/Fonts/WarnockPro-SemiboldItDisp.otf
+/Library/Fonts/WarnockPro-SemiboldItSubh.otf
+/Library/Fonts/WarnockPro-SemiboldSubh.otf
+/Library/Fonts/WarnockPro-Subh.otf
+/Library/Internet Plug-Ins/NPSVG3.zip
+/Library/Internet Plug-Ins/NPSVG3Carbon
+/Library/Internet Plug-Ins/NPSVG3ReadMe.html
+/Library/PreferencePanes/VersionCue.prefPane
+/Library/Preferences/com.adobe.versioncue.plist
+/Library/Recent Applications
+/Library/ScriptingAdditions/Adobe Unit Types
+/Library/StartupItems/AdobeVersionCue
+/Users/admin/Adobe SVG 3.0 Installer Log
+/Users/admin/Library/Application Support/Adobe
+/Users/admin/Library/ColorSync
+/Users/admin/Library/Preferences/ACE2Cache
+/Users/admin/Library/Preferences/Adobe
+/Users/admin/Library/Preferences/Adobe Photoshop 8.0 Paths
+/Users/admin/Library/Preferences/Adobe Photoshop CS Settings</diff>
+</preinstalled_package>

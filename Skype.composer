@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<preinstalled_package>
+	<name>Skype</name>
+	<notes>This is a preinstalled software template for Skype 2.8.  This template was tested with Skype 2.8 on Mac OS X 10.6.3 on 7/19/2010.</notes>
+	<created_by>JAMF Software, LLC</created_by>
+	<image_path>/Applications/Skype.app</image_path>
+	<check_for>/Applications/Skype.app</check_for>
+	<diff>/Applications/Skype.app
+/Users/admin/Library/Address Book Plug-Ins/Skype*
+/Users/admin/Library/Application Support/Skype
+/Users/admin/Library/Preferences/com.skype.skype.plist</diff>
+</preinstalled_package>

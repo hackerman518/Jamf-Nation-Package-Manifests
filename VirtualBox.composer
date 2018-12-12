@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>VirtualBox</name>	<notes>This is a preinstalled software template for VirtualBox.  This template was tested with Virtual Box 3.2.2 on Mac OS X 10.6.3 on 6/7/2010.</notes>	<created_by>JAMF Software, LLC</created_by>	<image_path>/Applications/VirtualBox.app</image_path>	<check_for>/Applications/VirtualBox.app</check_for>	<diff>/Applications/VirtualBox.app/Library/Extensions/VBox*
+/Library/Python/2.5/site-packages/vboxapi/
+/Library/Python/2.6/site-packages/vboxapi/
+/Library/Python/2.5/site-packages/vboxapi-1.0-py2.5.egg-info/Library/Python/2.6/site-packages/vboxapi-1.0-py2.6.egg-info
+/Library/StartupItems/VirtualBox
+/Users/admin/Library/VirtualBox/usr/bin/VBoxHeadless/usr/bin/VBoxManage/usr/bin/VBoxVRDP/usr/bin/vboxwebsrv/usr/bin/VirtualBox</diff></preinstalled_package>

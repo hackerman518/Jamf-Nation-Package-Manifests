@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<preinstalled_package>
+	<name>The Print Shop 2</name>
+	<notes>This is a preinstalled software template for The Print Shop 2.  This template was tested with The Print Shop 2 on Mac OS X 10.6.3 on 7/19/2010.</notes>
+	<created_by>JAMF Software, LLC</created_by>
+	<image_path>/Applications/The Print Shop 2.app</image_path>
+	<check_for>/Applications/The Print Shop 2.app</check_for>
+	<diff>/Applications/The Print Shop 2.app
+/Library/Preferences/com.apple.AppleShareClient.plist
+/Library/QuickLook/The Print Shop.qlgenerator
+/Users/ladmin/Library/Logs/InstallMill/com.mackiev.printshop2.installer.log
+/Users/ladmin/Library/Preferences/Macromedia</diff>
+</preinstalled_package>

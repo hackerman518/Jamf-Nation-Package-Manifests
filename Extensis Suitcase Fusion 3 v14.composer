@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>Extensis Suitcase Fusion 3 v14</name>	<notes>This is a preinstalled software template for Extensis Suitcase Fusion 3 v14. This template was tested on Mac OS X 10.8 on 8/10/2012. For serialization options, the license file is located at /Users/Shared/.ST140</notes>	<created_by>David F. Lewis II</created_by>	<image_path>/Applications/Suitcase Fusion 3.app</image_path>	<check_for>/Library/Frameworks/ExtensisPlugins.framework</check_for>	<check_for>/Library/Frameworks/ExtensisFontManagement.framework</check_for>	<check_for>/Library/Frameworks/ExtensisPluginInterface.framework</check_for>	<check_for>/usr/bin/corecli</check_for>	<check_for>/Library/PreferencePanes/sfcore-prefpane.prefPane</check_for>	<check_for>/Applications/Suitcase Fusion 3.app</check_for>	<diff>/Library/Frameworks/ExtensisPlugins.framework
+/Library/Frameworks/ExtensisFontManagement.framework
+/Library/Frameworks/ExtensisPluginInterface.framework
+/usr/bin/corecli
+/Library/PreferencePanes/sfcore-prefpane.prefPane
+/Applications/Suitcase Fusion 3.app
+/Users/Shared/.ST140</diff></preinstalled_package>

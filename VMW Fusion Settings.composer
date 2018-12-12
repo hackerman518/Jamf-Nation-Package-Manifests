@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>VMW Fusion Settings</name>	<notes>VMWare Fusion 4.9.00 (0050) Preferences</notes>	<created_by>JAMF Software, LLC</created_by>
+	<url>http://www.jamfsoftware.com/kb/article.php?id=084</url>	<image_path>/Applications/VMware Fusion.app</image_path>	<check_for>/Applications/VMware Fusion.app</check_for>	<diff>/Users/admin/Library/Preferences/com.vmware.fusion.plist/Users/admin/Library/Preferences/VMware Fusion/preferences</diff></preinstalled_package>

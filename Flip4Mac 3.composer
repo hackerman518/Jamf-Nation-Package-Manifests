@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>Flip4Mac 3</name>	<notes>Flip4Mac 3</notes>	<created_by>Jonathan Perel</created_by>	<image_path>/Applications/Flip Player.app</image_path>	<check_for>/Applications/Flip Player.app</check_for>	<diff>/Library/Internet Plug-Ins/Flip4Mac WMV Plugin.plugin
+/Users/admin/Library/Preferences/com.apple.frameworks.diskimages.uiagent.plist.lockfile
+/Library/PreferencePanes/Flip4Mac WMV.prefPane
+/Applications/Flip4Mac
+/Library/QuickTime/Flip4Mac WMV Import.component
+/Users/admin/Library/Saved Application State/com.apple.finder.savedState/window_11.data
+/Library/QuickTime/Flip4Mac WMV Advanced.component
+/Applications/Flip Player.app
+/Users/admin/Library/Preferences/com.apple.frameworks.diskimages.uiagent.plist
+/Library/Audio/Plug-Ins/Components/Flip4Mac WMA Import.component
+/Library/QuickTime/Flip4Mac WMV Export.component
+/System/Library/Internet Plug-Ins
+/Library/Frameworks/TSLicense.framework</diff></preinstalled_package>

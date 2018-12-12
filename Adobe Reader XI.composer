@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>Adobe Reader XI</name>	<notes>This is a package manifest for Adobe Reader XI. This manifest includes PDF Internet Plugins, which can be removed from the package if inclusion does not work well in your environment. This package manifest was tested with Adobe Reader X 11.0.02 on OS X 10.8 on 4/23/2013.</notes>	<created_by>Bram Cohen</created_by>	<image_path>/Applications/Adobe Reader.app</image_path>	<check_for>/Library/Preferences/com.adobe.acrobat.pdfviewer.plist</check_for>	<check_for>/Applications/Adobe Reader.app</check_for>	<check_for>/Library/Application Support/Adobe</check_for>	<check_for>/Library/Internet Plug-Ins/AdobePDFViewer.plugin</check_for>	<check_for>/Users/Shared/Adobe</check_for>	<check_for>/private/var/root/Library/Preferences/com.solidstatenetworks.awkhost.plist</check_for>	<diff>/Library/Preferences/com.adobe.acrobat.pdfviewer.plist
+/Applications/Adobe Reader.app
+/Library/Application Support/Adobe
+/Library/Internet Plug-Ins/AdobePDFViewer.plugin
+/Users/Shared/Adobe
+/private/var/root/Library/Preferences/com.solidstatenetworks.awkhost.plist
+/Library/Internet Plug-Ins/AdobePDFViewerNPAPI.plugin</diff></preinstalled_package>

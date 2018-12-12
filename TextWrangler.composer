@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>TextWrangler</name>	<notes>Version 4.0.1 created on August 13th 2012</notes>	<created_by>Michael Paul</created_by>	<image_path>/Applications/TextWrangler.app</image_path>	<check_for>/Applications/TextWrangler.app</check_for>	<diff>/Users/admin/Library/Preferences/ByHost/com.apple.loginwindow.7A2061E4-A21F-5175-AEED-F9B128A8365A.plist
+/Users/admin/Library/Saved Application State/com.apple.Safari.savedState/data.data
+/Users/admin/Library/Containers/com.apple.TextEdit/Data/Library/Preferences/com.apple.speech.synthesis.general.prefs.plist
+/Users/admin/Library/Saved Application State/com.apple.finder.savedState/window_22.data
+/private/var/audit/current
+/private/var/audit/20120813142018.not_terminated
+/Users/admin/Library/TextWrangler
+/Users/admin/Library/Saved Application State/com.apple.finder.savedState/data.data
+/Users/admin/Library/Preferences/com.apple.ServicesMenu.Services.plist
+/Library/PrivilegedHelperTools/com.barebones.authd
+/Users/admin/Library/Preferences/com.apple.recentitems.plist
+/Applications/TextWrangler.app
+/Users/admin/Library/Application Support/Dock/1051787E-7048-4913-AF62-6ADA814EBA9D.db
+/Users/admin/Library/Saved Application State/com.apple.Safari.savedState/windows.plist
+/Users/admin/Library/Saved Application State/com.barebones.textwrangler.savedState
+/Users/admin/Library/Preferences/com.apple.help.plist
+/Users/admin/Library/Containers/com.apple.TextEdit/Data/Library/Preferences/com.apple.ServicesMenu.Services.plist
+/Users/admin/Library/Containers/com.apple.TextEdit/Data/Library/Saved Application State/com.apple.TextEdit.savedState/windows.plist
+/usr/local
+/Library/LaunchDaemons/com.barebones.authd.plist
+/Users/admin/Library/Preferences/com.apple.finder.plist
+/Users/admin/Library/Saved Application State/com.apple.finder.savedState/windows.plist
+/Users/admin/Library/Preferences/com.apple.spaces.plist
+/Users/admin/Library/Application Support/TextWrangler
+/Users/admin/Library/Containers/com.apple.Preview/Data/Library/Preferences/com.apple.ServicesMenu.Services.plist
+/Users/admin/Library/Safari/LastSession.plist
+/Users/admin/Library/Containers/com.apple.Preview/Data/Library/Preferences/com.apple.speech.synthesis.general.prefs.plist
+/Users/admin/Library/Preferences/com.barebones.textwrangler.plist
+/private/var/root/Library/Preferences/com.apple.security.plist
+/Users/admin/Library/Containers/com.apple.TextEdit/Data/Library/Preferences/com.apple.speech.voice.prefs.plist
+/Users/admin/Library/Containers/com.apple.TextEdit/Data/Library/Saved Application State/com.apple.TextEdit.savedState/data.data
+/Users/admin/Library/Saved Application State/com.jamfsoftware.Composer.savedState/windows.plist
+/Users/admin/Library/Preferences/com.apple.frameworks.diskimages.diuiagent.plist
+/Users/admin/Library/Saved Application State/com.jamfsoftware.Composer.savedState/data.data
+/Users/admin/Library/Containers/com.apple.Preview/Data/Library/Preferences/com.apple.speech.voice.prefs.plist</diff></preinstalled_package>

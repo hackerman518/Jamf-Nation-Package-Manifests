@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>GarageBand 6.0.5</name>	<notes>Preinstalled or App Store</notes>	<created_by>Matt Schalk</created_by>	<image_path>/Applications/GarageBand.app</image_path>	<check_for>/Library/Audio/Apple Loops Index</check_for>	<check_for>/Library/Audio/Apple Loops</check_for>	<check_for>/Library/Application Support/GarageBand</check_for>	<check_for>/Applications/GarageBand.app</check_for>	<diff>/Library/Audio/Apple Loops Index
+/Library/Audio/Apple Loops
+/Library/Application Support/GarageBand
+/Applications/GarageBand.app</diff></preinstalled_package>

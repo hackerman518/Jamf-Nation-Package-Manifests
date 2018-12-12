@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>Mathematica</name>	<notes>Mathematica 9.0.1 with Internet plugin</notes>	<created_by>Drew Barnes</created_by>	<image_path>/Applications/Mathematica.app</image_path>	<check_for>/Library/Internet Plug-Ins/Mathematica.plugin</check_for>	<check_for>/Applications/Mathematica.app</check_for>	<diff>/Library/Internet Plug-Ins/Mathematica.plugin
+/Applications/Mathematica.app</diff></preinstalled_package>

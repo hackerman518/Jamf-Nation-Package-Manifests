@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>Extensis FontDoctor v8</name>	<notes>This is a preinstalled software template for Extensis FontDoctor v8. This template was tested on Mac OS X 10.8 on 8/10/2012. For serialization options, the license file is located at /Users/Shared/.FD80</notes>	<created_by>David F. Lewis II</created_by>	<image_path>/Applications/FontDoctor.app</image_path>	<check_for>/Applications/FontDoctor.app</check_for>	<diff>/Users/Shared/.FD80
+/Applications/FontDoctor.app</diff></preinstalled_package>

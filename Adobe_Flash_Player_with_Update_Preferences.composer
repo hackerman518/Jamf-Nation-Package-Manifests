@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>Adobe Flash Player with Update Preferences</name>	<notes>This manifest will capture Flash Player and its preferences for updating itself.</notes>	<created_by>Robert Hammen, MC Services, http://www.mcservices.com</created_by>	<image_path>/Applications/Utilities/Adobe Flash Player Install Manager.app</image_path>	<check_for>/Applications/Utilities/Adobe Flash Player Install Manager.app</check_for>	<check_for>/Library/PreferencePanes/Flash Player.prefPane</check_for>	<check_for>/Library/Internet Plug-Ins/Flash Player.plugin</check_for>	<check_for>/Library/Internet Plug-Ins/flashplayer.xpt</check_for>	<diff>/Library/LaunchDaemons/com.adobe.fpsaud.plist
+/Applications/Utilities/Adobe Flash Player Install Manager.app
+/Library/PreferencePanes/Flash Player.prefPane
+/Library/Internet Plug-Ins/Flash Player.plugin
+/Library/Application Support/Adobe/Flash Player Install Manager
+/Library/Internet Plug-Ins/flashplayer.xpt
+/Library/Application Support/Macromedia</diff></preinstalled_package>

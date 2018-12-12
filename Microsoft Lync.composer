@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>Microsoft Lync</name>	<notes>Package manifest for Microsoft Lync</notes>	<created_by>Brandon W. Peek</created_by>	<image_path>/Applications/Microsoft Lync.app</image_path>	<check_for>/Applications/Microsoft Lync.app</check_for>	<diff>/Applications/Microsoft Lync.app</diff></preinstalled_package>

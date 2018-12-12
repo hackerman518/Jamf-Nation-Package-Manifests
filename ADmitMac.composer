@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<preinstalled_package>
+	<name>ADmitMac</name>
+	<notes>This is a preinstalled software template for ADmitMac.  This template was tested with ADmitMac 5.0 on Mac OS X 10.6.3 on 6/7/2010.</notes>
+	<created_by>JAMF Software, LLC</created_by>
+	<image_path>/Applications/ADmitMac Browser.app</image_path>
+	<check_for>/Applications/ADmitMac Browser.app</check_for>
+	<diff>/Applications/ADmitMac Browser.app
+/Applications/Utilities/ADmitMac Network Utility.app
+/Library/Application Support/ADmitMac
+/Library/DirectoryServices
+/Library/Documentation/Help/ADmitMac.help
+/Library/Filesystems/DAVE
+/Library/Frameworks/Log4Cocoa.framework
+/Library/Frameworks/Thursby.framework
+/Library/Frameworks/ThursbySecurity.framework
+/Library/LaunchAgents/com.thursby.tss_check_cifs.plist
+/Library/LaunchDaemons/com.thursby.cifsd.plist
+/Library/LaunchDaemons/com.thursby.TSSRegistryStore.plist
+/Library/Preferences/com.thursby.ADmitMac.database.plist
+/Library/Preferences/com.thursby.CIFSPlugin.plist
+/Library/Preferences/com.thursby.DAVE.cifsd.plist
+/Library/Preferences/SystemConfiguration/DHCPClient.plist
+/Library/Printers/DAVE
+/Library/Receipts/ADmitMac.pkg
+/Library/Security/SecurityAgentPlugins/AMHomeDirMechanism.bundle
+/Library/StartupItems/CIFS
+/System/Library/CoreServices/Directory Utility.app/Contents/PlugIns/ADmitMac.daplug
+/System/Library/Filesystems/cifs.fs
+/sbin/amconfig
+/sbin/mount_cifs
+/usr/libexec/cups/backend/cifs</diff>
+</preinstalled_package>

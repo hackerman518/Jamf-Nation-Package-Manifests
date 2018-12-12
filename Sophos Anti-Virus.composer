@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>Sophos Anti-Virus</name>	<notes>This is a package manifest for Sophos Anti-Virus. This package manifest was tested with Sophos Anti-Virus 8.0.9 on Mac OSX 10.8.2 on 12/27/2012.</notes>	<warning></warning>	<created_by>JAMF Software, LLC</created_by>	<image_path>/Applications/Sophos Anti-Virus.app</image_path>	<check_for>/Applications/Sophos Anti-Virus.app</check_for>	<diff>/Applications/Sophos Anti-Virus.app/Applications/Sophos Anti-Virus.app/Library/Contextual Menu Items/Sophos Anti-Virus.plugin/Library/Frameworks/SAVI.framework/Library/Frameworks/SUMScanKit.framework
+/Library/LaunchAgents/com.sophos.uiserver.plist/Library/LaunchDaemons/com.sophos.autoupdate.plist/Library/LaunchDaemons/com.sophos.intercheck.plist/Library/LaunchDaemons/com.sophos.notification.plist/Library/Logs/Sophos Anti-Virus.log/Library/Preferences/com.sophos.sum.plist/Library/Preferences/com.sophos.sau.plist
+/Library/Sophos Anti-Virus
+/private/var/root/Library/Preferences/com.Sophos.SophosServer.plist
+/Users/admin/Library/Application Support/Sophos Anti-Virus/
+/Users/admin/Library/Preferences/com.sophos.ui.plist/Users/admin/Library/Preferences/com.sophos.sav.plist/Users/Shared/Infected/usr/bin/SophosUpdate/usr/bin/sweep/usr/share/man/man1/sweep.1</diff></preinstalled_package>

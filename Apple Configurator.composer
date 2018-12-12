@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>Apple Configurator</name>	<notes>This is a package manifest for Apple Configurator and associated profiles, apps, certificates and settings. This package manifest was tested with Apple Configurator 1.2.1 on Mac OS X 10.8.2 on 11/6/2012.</notes>	<created_by>JAMF Software, LLC</created_by>	<image_path>/Applications/Apple Configurator.app</image_path>	<check_for>/Applications/Apple Configurator.app</check_for>	<diff>/Applications/Apple Configurator.app
+/Users/admin/Library/Containers/com.apple.configurator/*
+/Users/admin/Library/Keychains
+</diff></preinstalled_package>
